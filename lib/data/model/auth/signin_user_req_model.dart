@@ -2,7 +2,7 @@ class SigninUserReqModel{
   String email;
   String password;
 
-  SigningUserReqModel({
+  SigninUserReqModel({
     required this.email,
     required this.password,
   });
